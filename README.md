@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on The Odin Project
+- 🔭 I’m currently working on The Odin Project and my Bachelors in Computer Science degree
 - 🌱 I’m currently learning Ruby, HTML, CSS, JS, C++, and Assembly
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
