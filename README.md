@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... -->
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: I only made this README to get the Student Developer Pack
+- ⚡ Fun fact: My favorite color is #0316F2
 <!--
 -->
 
